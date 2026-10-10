@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "propcache",
+  "versions": [
+    {
+      "commit": "5fc239491cfa0c068ec0bdfc04a7176db9293da8",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:07:03.773091+00:00"
+    }
+  ]
+}
