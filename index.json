@@ -3,6 +3,11 @@
   "repo": "propcache",
   "versions": [
     {
+      "commit": "410fc9318e12b70c15e21c70ab75256d1c7b3f41",
+      "tag": "v0.4.1",
+      "parsed_at": "2026-11-22T00:10:45.501224+00:00"
+    },
+    {
       "commit": "5fc239491cfa0c068ec0bdfc04a7176db9293da8",
       "tag": "",
       "parsed_at": "2026-10-10T16:07:03.773091+00:00"
